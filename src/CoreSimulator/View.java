@@ -5,6 +5,7 @@ import java.util.Observer;
 
 /**
  * @author vikson-6
+ * test
  */
 abstract public class View implements Observer {
     public State state;
